@@ -12,16 +12,7 @@ A data-driven exploration of passenger survival on the Titanic. This project foc
 - **Statistical Tests**:  
   - T-tests for fare differences between survivors/non-survivors.  
   - Chi-square tests for gender-survival relationships.  
-- **Age Group Analysis**: Categorized passengers into Child/Adult/Senior for deeper insights.  
-
-## 📊 Sample Visualizations  
-| Gender Distribution | Survival by Class & Gender |  
-|----------------------|----------------------------|  
-| <img src="results/gender_dist.png" width="300"> | <img src="results/survival_class_gender.png" width="300"> |  
-
-| Age Distribution | Correlation Heatmap |  
-|-------------------|----------------------|  
-| <img src="results/age_dist.png" width="300"> | <img src="results/correlation_heatmap.png" width="300"> |  
+- **Age Group Analysis**: Categorized passengers into Child/Adult/Senior for deeper insights.
 
 ## 🛠️ Installation  
 1. Clone the repository:  
@@ -67,22 +58,3 @@ This project is licensed under the MIT License.
 - Dataset: Kaggle Titanic Dataset
 
 - Tools: Pandas, Matplotlib, Seaborn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
